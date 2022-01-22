@@ -1,0 +1,12 @@
+body {
+    background: #35363A;
+  }
+  
+#titleText{
+    color:azure;
+    text-align:center;
+    margin: auto;
+    width: 50%;
+    border: 3px solid azure;
+    padding: 10px;
+}
